@@ -31,7 +31,7 @@ def getCaseInput():
         for case in sorted_caseList:
             lowerDesired = desiredCase.lower()
             lowerCase = case.lower()
-            if lowerDesired == lowerCase:
+            if lowerCase.startswith(lowerDesired):
                 caseMatch = True
                 casePrint = case
         if caseMatch == True:
@@ -53,7 +53,7 @@ def getValueInput():
         for value in sortedValueList:
             lowerDesired = desiredValue.lower()
             lowerValue = value.lower()
-            if lowerDesired == lowerValue:
+            if lowerValue.startswith(lowerDesired):
                 valueMatch = True
                 valuePrint = value
         if valueMatch == True:

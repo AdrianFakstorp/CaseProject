@@ -1,27 +1,27 @@
-{u'1': {u'FAMAS | Roll Cage (Field-Tested)': 11.33}} + 
-{u'2': {u'StatTrak\u2122 Glock-18 | Weasel (Field-Tested)': 8.44}} + 
-{u'3': {u'StatTrak\u2122 UMP-45 | Briefing (Factory New)': 6.49}} + 
-{u'4': {u'StatTrak\u2122 SCAR-20 | Powercore (Factory New)': 5.46}} + 
-{u'5': {u'StatTrak\u2122 MAG-7 | Petroglyph (Factory New)': 3.94}} + 
-{u'6': {u'MP9 | Airlock (Field-Tested)': 3.2}} + 
-{u'7': {u'StatTrak\u2122 Five-SeveN | Scumbria (Factory New)': 2.82}} + 
-{u'8': {u'StatTrak\u2122 SG 553 | Triarch (Minimal Wear)': 2.61}} + 
-{u'9': {u'StatTrak\u2122 P90 | Grim (Field-Tested)': 2.0}} + 
-{u'10': {u'StatTrak\u2122 G3SG1 | Ventilator (Factory New)': 1.89}} + 
-{u'11': {u'StatTrak\u2122 XM1014 | Slipstream (Factory New)': 1.75}} + 
-{u'12': {u'Desert Eagle | Directive (Well-Worn)': 1.04}} + 
-Total Value: 50.97
+{u'1': {u'StatTrak\u2122 Galil AR | Chatterbox (Well-Worn)': 9.75}} + 
+{u'2': {u"AWP | Man-o'-war (Field-Tested)": 8.1}} + 
+{u'3': {u'StatTrak\u2122 P250 | Muertos (Well-Worn)': 6.34}} + 
+{u'4': {u'M4A4 | \u9f8d\u738b (Dragon King) (Minimal Wear)': 5.18}} + 
+{u'5': {u'AK-47 | Cartel (Well-Worn)': 3.41}} + 
+{u'6': {u'StatTrak\u2122 Dual Berettas | Urban Shock (Factory New)': 2.72}} + 
+{u'7': {u'StatTrak\u2122 Desert Eagle | Naga (Minimal Wear)': 2.68}} + 
+{u'8': {u'StatTrak\u2122 Sawed-Off | Serenity (Factory New)': 2.34}} + 
+{u'9': {u'StatTrak\u2122 MP9 | Deadly Poison (Factory New)': 2.15}} + 
+{u'10': {u'StatTrak\u2122 MAC-10 | Malachite (Minimal Wear)': 1.46}} + 
+{u'11': {u'StatTrak\u2122 Glock-18 | Catacombs (Factory New)': 1.29}} + 
+{u'12': {u'StatTrak\u2122 M249 | System Lock (Factory New)': 0.96}} + 
+Total Value: 46.38
 
 ---------------------------------
-https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Roll%20Cage%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Glock-18%20%7C%20Weasel%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Briefing%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20SCAR-20%20%7C%20Powercore%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Petroglyph%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/MP9%20%7C%20Airlock%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Scumbria%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20SG%20553%20%7C%20Triarch%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20P90%20%7C%20Grim%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20G3SG1%20%7C%20Ventilator%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20XM1014%20%7C%20Slipstream%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Directive%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Galil%20AR%20%7C%20Chatterbox%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Man-o'-war%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P250%20%7C%20Muertos%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20龍王%20(Dragon%20King)%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/AK-47%20%7C%20Cartel%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Dual%20Berettas%20%7C%20Urban%20Shock%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7C%20Naga%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Sawed-Off%20%7C%20Serenity%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MP9%20%7C%20Deadly%20Poison%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MAC-10%20%7C%20Malachite%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Glock-18%20%7C%20Catacombs%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20M249%20%7C%20System%20Lock%20(Factory%20New)
