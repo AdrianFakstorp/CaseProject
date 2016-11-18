@@ -1,27 +1,27 @@
-{u'1': {u'USP-S | Kill Confirmed (Well-Worn)': 18.52}} + 
-{u'2': {u'StatTrak\u2122 G3SG1 | Flux (Minimal Wear)': 9.48}} + 
-{u'3': {u'SSG 08 | Big Iron (Factory New)': 4.96}} + 
-{u'4': {u'StatTrak\u2122 MP7 | Special Delivery (Factory New)': 3.87}} + 
-{u'5': {u'StatTrak\u2122 Dual Berettas | Dualing Dragons (Factory New)': 3.31}} + 
-{u'6': {u'StatTrak\u2122 P250 | Wingshot (Minimal Wear)': 2.87}} + 
-{u'7': {u'StatTrak\u2122 Glock-18 | Wraiths (Factory New)': 2.71}} + 
-{u'8': {u'StatTrak\u2122 Galil AR | Stone Cold (Minimal Wear)': 2.35}} + 
-{u'9': {u'StatTrak\u2122 FAMAS | Survivor Z (Factory New)': 1.3}} + 
-{u'10': {u'M249 | Nebula Crusader (Factory New)': 1.22}} + 
-{u'11': {u'StatTrak\u2122 XM1014 | Scumbria (Factory New)': 1.01}} + 
-{u'12': {u'StatTrak\u2122 MAG-7 | Cobalt Core (Factory New)': 0.75}} + 
-Total Value: 52.35
+{u'1': {u'FAMAS | Roll Cage (Field-Tested)': 11.33}} + 
+{u'2': {u'StatTrak\u2122 Glock-18 | Weasel (Field-Tested)': 8.44}} + 
+{u'3': {u'StatTrak\u2122 UMP-45 | Briefing (Factory New)': 6.49}} + 
+{u'4': {u'StatTrak\u2122 SCAR-20 | Powercore (Factory New)': 5.46}} + 
+{u'5': {u'StatTrak\u2122 MAG-7 | Petroglyph (Factory New)': 3.94}} + 
+{u'6': {u'MP9 | Airlock (Field-Tested)': 3.2}} + 
+{u'7': {u'StatTrak\u2122 Five-SeveN | Scumbria (Factory New)': 2.82}} + 
+{u'8': {u'StatTrak\u2122 SG 553 | Triarch (Minimal Wear)': 2.61}} + 
+{u'9': {u'StatTrak\u2122 P90 | Grim (Field-Tested)': 2.0}} + 
+{u'10': {u'StatTrak\u2122 G3SG1 | Ventilator (Factory New)': 1.89}} + 
+{u'11': {u'StatTrak\u2122 XM1014 | Slipstream (Factory New)': 1.75}} + 
+{u'12': {u'Desert Eagle | Directive (Well-Worn)': 1.04}} + 
+Total Value: 50.97
 
 ---------------------------------
-https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Kill%20Confirmed%20(Well-Worn)
-https://steamcommunity.com/market/listings/730/StatTrak™%20G3SG1%20%7C%20Flux%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/SSG%2008%20%7C%20Big%20Iron%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Special%20Delivery%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Dual%20Berettas%20%7C%20Dualing%20Dragons%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20P250%20%7C%20Wingshot%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Glock-18%20%7C%20Wraiths%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Galil%20AR%20%7C%20Stone%20Cold%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Survivor%20Z%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/M249%20%7C%20Nebula%20Crusader%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20XM1014%20%7C%20Scumbria%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Cobalt%20Core%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Roll%20Cage%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Glock-18%20%7C%20Weasel%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Briefing%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20SCAR-20%20%7C%20Powercore%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Petroglyph%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/MP9%20%7C%20Airlock%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Scumbria%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20SG%20553%20%7C%20Triarch%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P90%20%7C%20Grim%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20G3SG1%20%7C%20Ventilator%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20XM1014%20%7C%20Slipstream%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/Desert%20Eagle%20%7C%20Directive%20(Well-Worn)
