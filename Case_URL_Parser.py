@@ -6,6 +6,7 @@ from pprint import pprint
 import sys
 import time
 import re
+import config as cfg
 
 tracer = "var g_rgAssets ="
 tracer_name = "market_listing_item_name"
@@ -96,7 +97,7 @@ def skin_grab():
 json_list = skin_grab()
 
 def pricing_post():
-    url = 'https://stage.esportspools.com//api/v2/pricing/8CB4CF4A2F228144286B585461978D92FDB24989FF1AC36024B4ABF0840C04FB'
+    url = cfg.API_KEY
     headers = {'content-type': 'application/json'}
     response = requests.post(url, data=json.dumps(json_list), headers=headers)
     #print(response.status_code)
@@ -122,7 +123,7 @@ case_complete["Last Update"] = {"Date" : (time.strftime("%d/%m/%Y")), "Time": (t
 
 def case_json():
 
-    json_name = "jsonCase Storage/%s.json" % name
+    json_name = "%s/%s.json" % (cfg.jsonSource,name)
     json_lists = (case_complete)
     with open(json_name, 'w') as outfile:
         json.dump(case_complete, outfile)
@@ -132,36 +133,10 @@ def case_json():
 
 case_json()
 
-def case_json_fix():
-    filedata = None
-    json_name = "jsonCase Storage/%s.json" % name
-    with open(json_name, 'r') as file :
-      filedata = file.read()
-
-    # Replace the target string
-
-#    filedata = filedata.replace('\'', "\"")
-#    filedata = filedata.replace('u\"', "\"")
-#    filedata = filedata.replace("o\"", "o\'")
-
-
-
-    filedata = filedata.encode('utf-8').strip()
-
-
-
-
-
-    # Write the file out again
-    with open(json_name, 'w') as file:
-      file.write(filedata)
-
-#case_json_fix()
-
 ####################################################################Creating List of Cases
 
 def case_list_check(name):
-    json_name = "jsonCase Storage/List of Cases.json"
+    json_name = "%s/%s" % (cfg.jsonSource,cfg.caseList)
     with open(json_name, 'r') as json_file:
         list_of_cases = json.load(json_file)
     deep_list = list_of_cases["List"]
