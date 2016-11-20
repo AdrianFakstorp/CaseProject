@@ -142,17 +142,20 @@ def case_list_check(name):
     deep_list = list_of_cases["List"]
     check = 1
     for cases in deep_list:
-        if name == cases:
+        if name == cases["Name"]:
             # print name
             # print case
             check = 0
         else:
             check = 1
     if check == 1:
-        deep_list.append(name)
-        print deep_list
+        tempDict = {"Name":name,"URL":URL}
+        deep_list.append(tempDict)
         with open(json_name, 'w') as outfile:
             json.dump(list_of_cases, outfile)
+        print "%s has been added to the list of useable cases." % name
+    elif check == 0:
+        print "Existing %s has been updated." % name
 
 
 case_list_check(name)

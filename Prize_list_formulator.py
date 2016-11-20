@@ -20,7 +20,8 @@ with open("jsonCase Storage/price_ranking.json", "r") as price_list:
 
 def getCaseInput():
     sorted_caseList = sorted(caseList['List'])
-    for case in sorted_caseList: #To diplay to user what cases are available for selection
+    for caseDict in sorted_caseList: #To diplay to user what cases are available for selection
+        case = caseDict["Name"]
         print case
     caseMatch = False
     while caseMatch == False:
@@ -28,7 +29,8 @@ def getCaseInput():
         if desiredCase == "end":
             print "Ending Program"
             sys.exit()
-        for case in sorted_caseList:
+        for caseDict in sorted_caseList:
+            case = caseDict["Name"]
             lowerDesired = desiredCase.lower()
             lowerCase = case.lower()
             if lowerCase.startswith(lowerDesired):
