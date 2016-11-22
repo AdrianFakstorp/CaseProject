@@ -96,6 +96,7 @@ def skin_grab():
 
 json_list = skin_grab()
 
+
 def pricing_post():
     url = cfg.API_KEY
     headers = {'content-type': 'application/json'}
@@ -140,12 +141,14 @@ def case_list_check(name):
     with open(json_name, 'r') as json_file:
         list_of_cases = json.load(json_file)
     deep_list = list_of_cases["List"]
-    check = 1
+    print deep_list
+    check = 0
     for cases in deep_list:
         if name == cases["Name"]:
-            # print name
-            # print case
+            print cases["Name"]
+            print name
             check = 0
+            break
         else:
             check = 1
     if check == 1:
