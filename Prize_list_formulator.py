@@ -71,9 +71,6 @@ value = getValueInput()
 case_path = "jsonCase Storage/%s.json" % case
 roomForError = 0.1
 
-def caseUpdater(case):
-    with open ()
-
 
 
 with open(case_path, "r") as case_json:
