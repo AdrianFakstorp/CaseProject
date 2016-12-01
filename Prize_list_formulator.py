@@ -4,7 +4,6 @@ import pprint
 import random
 import sys
 import re
-import config as cfg
 pp = pprint.PrettyPrinter(indent=4)
 
 
@@ -13,10 +12,10 @@ pp = pprint.PrettyPrinter(indent=4)
 # -consider having knife json
 
 
-with open("%s/%s.json" %(cfg.jsonSource,cfg.caseList), "r") as case_list:
+with open("jsonCase Storage/List of Cases.json", "r") as case_list:
     caseList = json.load(case_list)
 
-with open("%s/%s.json" % (cfg.jsonSource,cfg.prizeRank), "r") as price_list:
+with open("jsonCase Storage/price_ranking.json", "r") as price_list:
     listPrizeBrackets = json.load(price_list)
 
 def getCaseInput():
@@ -71,6 +70,10 @@ value = getValueInput()
 case_path = "jsonCase Storage/%s.json" % case
 roomForError = 0.1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 226dce6... Prize list update
 
 
 with open(case_path, "r") as case_json:
