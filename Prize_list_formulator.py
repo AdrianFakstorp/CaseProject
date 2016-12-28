@@ -70,10 +70,6 @@ value = getValueInput()
 case_path = "jsonCase Storage/%s.json" % case
 roomForError = 0.1
 
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of 226dce6... Prize list update
 
 
 with open(case_path, "r") as case_json:
