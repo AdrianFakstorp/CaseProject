@@ -1,18 +1,13 @@
-import json
-import config as cfg
-import pprint
-pp = pprint.PrettyPrinter(indent=4)
 
+class APIError(Exception):
+    #pass
+    def __init__(self, status):
+        self.status = status
 
-case = "Chroma Case"
+    def __str__(self):
+        return "Status {}. Please double check your key is correct".format(self.status)
 
-case_path = "%s/%s.json" % (cfg.jsonSource,case)
+def throws():
+    raise APIError(Exception)
 
-def caseUpdater(case_path):
-    with open(case_path, "r") as case_json:
-        active_case = json.load(case_json)
-    for skin in active_case[case]:
-        skin = skin.encode('utf-8')
-        print skin
-
-pp.pprint(caseUpdater(case_path))
+throws()

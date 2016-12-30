@@ -1,27 +1,27 @@
-{u'1': {u'StatTrak\u2122 AWP | Electric Hive (Factory New)': 44.46}} + 
-{u'2': {u'StatTrak\u2122 Desert Eagle | Cobalt Disruption (Field-Tested)': 14.71}} + 
-{u'3': {u'StatTrak\u2122 AK-47 | Blue Laminate (Minimal Wear)': 10.51}} + 
-{u'4': {u'M4A4 | X-Ray (Factory New)': 6.27}} + 
-{u'5': {u'StatTrak\u2122 FAMAS | Afterimage (Field-Tested)': 5.42}} + 
-{u'6': {u'StatTrak\u2122 P90 | Blind Spot (Factory New)': 3.44}} + 
-{u'7': {u'StatTrak\u2122 Five-SeveN | Nightshade (Factory New)': 1.73}} + 
-{u'8': {u'StatTrak\u2122 PP-Bizon | Water Sigil (Factory New)': 1.31}} + 
-{u'9': {u'StatTrak\u2122 P250 | Steel Disruption (Factory New)': 1.26}} + 
-{u'10': {u'StatTrak\u2122 G3SG1 | Azure Zebra (Factory New)': 0.98}} + 
-{u'11': {u'StatTrak\u2122 Nova | Ghost Camo (Factory New)': 0.98}} + 
-{u'12': {u'Galil AR | Blue Titanium (Factory New)': 0.3}} + 
-Total Value: 91.37
+{u'1': {u'StatTrak\u2122 M4A4 | The Battlestar (Factory New)': 43.97}} + 
+{u'2': {u'StatTrak\u2122 Desert Eagle | Kumicho Dragon (Field-Tested)': 15.66}} + 
+{u'3': {u'AWP | Elite Build (Factory New)': 10.3}} + 
+{u'4': {u'StatTrak\u2122 USP-S | Lead Conduit (Factory New)': 6.03}} + 
+{u'5': {u'StatTrak\u2122 FAMAS | Valence (Minimal Wear)': 4.92}} + 
+{u'6': {u'StatTrak\u2122 MP7 | Impire (Factory New)': 4.04}} + 
+{u'7': {u'StatTrak\u2122 MAG-7 | Praetorian (Factory New)': 3.43}} + 
+{u'8': {u'StatTrak\u2122 Tec-9 | Jambiya (Factory New)': 3.05}} + 
+{u'9': {u'Nova | Hyper Beast (Minimal Wear)': 2.74}} + 
+{u'10': {u'StatTrak\u2122 Five-SeveN | Triumvirate (Well-Worn)': 1.8}} + 
+{u'11': {u'StatTrak\u2122 Dual Berettas | Cartel (Factory New)': 1.47}} + 
+{u'12': {u'Glock-18 | Royal Legion (Minimal Wear)': 0.83}} + 
+Total Value: 98.24
 
 ---------------------------------
-https://steamcommunity.com/market/listings/730/StatTrak™%20AWP%20%7C%20Electric%20Hive%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7C%20Cobalt%20Disruption%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20AK-47%20%7C%20Blue%20Laminate%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/M4A4%20%7C%20X-Ray%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Afterimage%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20P90%20%7C%20Blind%20Spot%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Nightshade%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20PP-Bizon%20%7C%20Water%20Sigil%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20P250%20%7C%20Steel%20Disruption%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20G3SG1%20%7C%20Azure%20Zebra%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Nova%20%7C%20Ghost%20Camo%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Blue%20Titanium%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20M4A4%20%7C%20The%20Battlestar%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/AWP%20%7C%20Elite%20Build%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20USP-S%20%7C%20Lead%20Conduit%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Valence%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Impire%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Praetorian%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Tec-9%20%7C%20Jambiya%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/Nova%20%7C%20Hyper%20Beast%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Triumvirate%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Dual%20Berettas%20%7C%20Cartel%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Royal%20Legion%20(Minimal%20Wear)
