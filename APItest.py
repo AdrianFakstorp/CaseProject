@@ -17,7 +17,7 @@ OPSkins_APIKey = cfg.OPSkins_APIKey
 OPSkinsAPIKeyTest = "https://opskins.com/api/user_api.php?request=test&key=%s" % OPSkins_APIKey
 response = requests.get(OPSkinsAPIKeyTest)
 
-
+ErrorMessage = response.json()['result']['error']
 
 class APIError(Exception):
     #pass
@@ -28,7 +28,7 @@ class APIError(Exception):
         return "Status {}: \"{}\". Please double check your key is correct".format(self.status,ErrorMessage)
 
 def throws():
-    raise APIError(response.status_code)
+    raise APIError(response.json())
 
 def main():
     try:
@@ -37,9 +37,8 @@ def main():
     except Exception,err:
         if response.status_code != 200:
             if response.status_code == 401:
-                ErrorMessage = response.json()['result']['error']
-            sys.stderr.write(str(err))
-            return 1
+                sys.stderr.write(str(err))
+                return 1
         else:
             print response.status_code
 #

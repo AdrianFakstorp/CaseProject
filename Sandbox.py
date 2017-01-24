@@ -1,13 +1,3 @@
+twenty_value = [6.50, 4.750, 4.25, 3.50, 2.75, 2.20, 1.20, 0.95, 0.85, 0.75, 0.65, 0.5]
 
-class APIError(Exception):
-    #pass
-    def __init__(self, status):
-        self.status = status
-
-    def __str__(self):
-        return "Status {}. Please double check your key is correct".format(self.status)
-
-def throws():
-    raise APIError(Exception)
-
-throws()
+print sum(twenty_value)

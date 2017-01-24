@@ -1,27 +1,27 @@
-{u'1': {u'StatTrak\u2122 M4A4 | The Battlestar (Factory New)': 43.97}} + 
-{u'2': {u'StatTrak\u2122 Desert Eagle | Kumicho Dragon (Field-Tested)': 15.66}} + 
-{u'3': {u'AWP | Elite Build (Factory New)': 10.3}} + 
-{u'4': {u'StatTrak\u2122 USP-S | Lead Conduit (Factory New)': 6.03}} + 
-{u'5': {u'StatTrak\u2122 FAMAS | Valence (Minimal Wear)': 4.92}} + 
-{u'6': {u'StatTrak\u2122 MP7 | Impire (Factory New)': 4.04}} + 
-{u'7': {u'StatTrak\u2122 MAG-7 | Praetorian (Factory New)': 3.43}} + 
-{u'8': {u'StatTrak\u2122 Tec-9 | Jambiya (Factory New)': 3.05}} + 
-{u'9': {u'Nova | Hyper Beast (Minimal Wear)': 2.74}} + 
-{u'10': {u'StatTrak\u2122 Five-SeveN | Triumvirate (Well-Worn)': 1.8}} + 
-{u'11': {u'StatTrak\u2122 Dual Berettas | Cartel (Factory New)': 1.47}} + 
-{u'12': {u'Glock-18 | Royal Legion (Minimal Wear)': 0.83}} + 
-Total Value: 98.24
+{u'1': {u'SG 553 | Cyrex (Factory New)': 5.87}} + 
+{u'2': {u'MP7 | Nemesis (Factory New)': 4.07}} + 
+{u'3': {u'StatTrak\u2122 M4A4 | Evil Daimyo (Field-Tested)': 3.96}} + 
+{u'4': {u'StatTrak\u2122 P90 | Elite Build (Factory New)': 4.04}} + 
+{u'5': {u'StatTrak\u2122 Glock-18 | Bunsen Burner (Factory New)': 2.71}} + 
+{u'6': {u'StatTrak\u2122 USP-S | Torque (Minimal Wear)': 2.21}} + 
+{u'7': {u'StatTrak\u2122 P2000 | Handgun (Field-Tested)': 1.02}} + 
+{u'8': {u'StatTrak\u2122 Nova | Ranger (Factory New)': 0.98}} + 
+{u'9': {u'StatTrak\u2122 Negev | Loudmouth (Well-Worn)': 0.81}} + 
+{u'10': {u'Galil AR | Rocket Pop (Factory New)': 0.76}} + 
+{u'11': {u'StatTrak\u2122 UMP-45 | Riot (Minimal Wear)': 0.54}} + 
+{u'12': {u'FAMAS | Neural Net (Minimal Wear)': 0.33}} + 
+Total Value: 27.3
 
 ---------------------------------
-https://steamcommunity.com/market/listings/730/StatTrak™%20M4A4%20%7C%20The%20Battlestar%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7C%20Kumicho%20Dragon%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/AWP%20%7C%20Elite%20Build%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20USP-S%20%7C%20Lead%20Conduit%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Valence%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Impire%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Praetorian%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Tec-9%20%7C%20Jambiya%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/Nova%20%7C%20Hyper%20Beast%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Triumvirate%20(Well-Worn)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Dual%20Berettas%20%7C%20Cartel%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Royal%20Legion%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Cyrex%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/MP7%20%7C%20Nemesis%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20M4A4%20%7C%20Evil%20Daimyo%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P90%20%7C%20Elite%20Build%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Glock-18%20%7C%20Bunsen%20Burner%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20USP-S%20%7C%20Torque%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P2000%20%7C%20Handgun%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Nova%20%7C%20Ranger%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Negev%20%7C%20Loudmouth%20(Well-Worn)
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Rocket%20Pop%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Riot%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Neural%20Net%20(Minimal%20Wear)

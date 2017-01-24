@@ -1,10 +1,11 @@
 import json
 
 rankings = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12']
+twenty_value = [6.50, 4.75, 4.25, 3.60, 2.75, 2.20, 1.20, 1.00, 0.85, 0.75, 0.65, 0.5]
 fifty_value = [10.50, 9.00, 6.00, 5.25, 4.00, 3.00, 2.75, 2.50, 2.25, 2.00, 1.75, 1.00]
 sixty_value = [20.00, 10.00, 5.00, 4.50, 4.00, 3.75, 3.25, 2.75, 2.25, 2.00, 1.50, 1.00]
 hundred_value = [45.00, 15.00, 11.00, 6.00, 4.75, 4.25, 3.75 , 3.25, 2.50, 2.00, 1.50, 1.00]
-list_of_prize_brackets = [ {'name':'Fifty Value','data':fifty_value} ,{'name':'Sixty Value','data':sixty_value},{'name':'Hundred Value','data':hundred_value}]
+list_of_prize_brackets = [ {'name':'Fifty Value','data':fifty_value} ,{'name':'Sixty Value','data':sixty_value},{'name':'Hundred Value','data':hundred_value},{'name':'Twenty Value','data':twenty_value}]
 
 
 
