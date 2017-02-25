@@ -10,7 +10,7 @@ import time
 
 #Main Functions
 def getCaseListfromJson():
-    caseListLocation = "jsonCase Storage/List of Cases.json"
+    caseListLocation = "%s/List of Cases.json" % cfg.jsonSource
     with open(caseListLocation, "r") as case_list:
         caseList = json.load(case_list)
     return caseList
@@ -24,7 +24,7 @@ def putCaseNameinList():
 
 def getSkinsinCase(CaseName):
     ListofSkinNames = []
-    desiredCase = "jsonCase Storage/%s.json" % CaseName
+    desiredCase = "%s/%s.json" % (cfg.jsonSource,CaseName)
     with open(desiredCase, "r") as SkinsinCase:
         ListofSkinsinCase = json.load(SkinsinCase)
     ListofSkinsinCase = ListofSkinsinCase[CaseName]
