@@ -6,6 +6,7 @@ import time
 
 #Functions Defined ---------
 
+#Error Return
 
 #Main Functions
 def getCaseListfromJson():
@@ -68,11 +69,22 @@ def caseDataUpdate_Write(CaseJSONFormatted, CaseName):
     with open (jsonName, 'w') as outfile:
         json.dump(CaseJSONFormatted, outfile)
 
+def CaseUpdateAll(caseNameList):
+    for CaseName in caseNameList:
+        print "%s parsing..." % CaseName
+        ListofSkinNames = getSkinsinCase(CaseName)
+        FormattedListofSkinNames = formatListofSkinNames(ListofSkinNames)
+        PricedSkins = postListofSkinNamestoPricingAPI(FormattedListofSkinNames)
+        CaseJSONFormatted = caseDataUpdate_Formatting(PricedSkins,CaseName)
+        caseDataUpdate_Write(CaseJSONFormatted,CaseName)
+        print "%s updated \n" % CaseName
+
 
 caseData = getCaseListfromJson()
 caseNameList = putCaseNameinList()
-ListofSkinNames = getSkinsinCase("Chroma 3 Case")
-FormattedListofSkinNames = formatListofSkinNames(ListofSkinNames)
-PricedSkins = postListofSkinNamestoPricingAPI(FormattedListofSkinNames)
-CaseJSONFormatted = caseDataUpdate_Formatting(PricedSkins, "Chroma 3 Case")
-caseDataUpdate_Write(CaseJSONFormatted,"Chroma 3 Case")
+CaseUpdateAll(caseNameList)
+# ListofSkinNames = getSkinsinCase("Chroma 3 Case")
+# FormattedListofSkinNames = formatListofSkinNames(ListofSkinNames)
+# PricedSkins = postListofSkinNamestoPricingAPI(FormattedListofSkinNames)
+# CaseJSONFormatted = caseDataUpdate_Formatting(PricedSkins, "Chroma 3 Case")
+# caseDataUpdate_Write(CaseJSONFormatted,"Chroma 3 Case")
