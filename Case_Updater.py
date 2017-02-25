@@ -1,18 +1,78 @@
+# -*- coding: utf-8 -*-
+import requests
 import json
+import config as cfg
+import time
 
-def caseList():
+#Functions Defined ---------
+
+
+#Main Functions
+def getCaseListfromJson():
     caseListLocation = "jsonCase Storage/List of Cases.json"
     with open(caseListLocation, "r") as case_list:
         caseList = json.load(case_list)
     return caseList
 
-caseList = caseList()
-
-def caseListName():
+def putCaseNameinList():
     NameList = []
-    for caseData in caseList["List"]:
-        caseName = caseData["Name"]
+    for caseDataIterated in caseData["List"]:
+        caseName = caseDataIterated["Name"]
         NameList.append(caseName)
     return NameList
 
-caseListName = caseListName()
+def getSkinsinCase(CaseName):
+    ListofSkinNames = []
+    desiredCase = "jsonCase Storage/%s.json" % CaseName
+    with open(desiredCase, "r") as SkinsinCase:
+        ListofSkinsinCase = json.load(SkinsinCase)
+    ListofSkinsinCase = ListofSkinsinCase[CaseName]
+    for SkinName in ListofSkinsinCase:
+        SkinName = SkinName.encode('utf-8')
+        ListofSkinNames.append(SkinName)
+    return ListofSkinNames
+
+def formatListofSkinNames(ListofSkinNames):
+    jsontoPost = {}
+    items = []
+    for SkinName in ListofSkinNames:
+        temp_dict = {}
+        temp_dict['market_name'] = SkinName
+        items.append(temp_dict)
+    jsontoPost['items'] = items
+    return jsontoPost
+
+def postListofSkinNamestoPricingAPI(FormattedListofSkinNames):
+    url = cfg.API_KEY
+    headers = {'content-type': 'application/json'}
+    response = requests.post(url, data=json.dumps(FormattedListofSkinNames), headers=headers)
+    #print(response.status_code)
+    #print(response.json())
+    API_Response = response.json()
+    return API_Response['data']
+
+def caseDataUpdate_Formatting(PricedSkins, CaseName):
+    caseBase = {}
+    caseComplete = {}
+    #Name & Date of Case
+    Date = {"Date" : (time.strftime("%d/%m/%Y")), "Time": (time.strftime("%H:%M:%S"))}
+    caseComplete["Last Update"] = Date
+    #Skins with Price
+    for Skin in PricedSkins:
+        caseBase[Skin['market_name']] = Skin['price']
+    caseComplete[CaseName] = caseBase
+    return caseComplete
+
+def caseDataUpdate_Write(CaseJSONFormatted, CaseName):
+    jsonName = "%s/%s.json" % (cfg.jsonSource,CaseName)
+    with open (jsonName, 'w') as outfile:
+        json.dump(CaseJSONFormatted, outfile)
+
+
+caseData = getCaseListfromJson()
+caseNameList = putCaseNameinList()
+ListofSkinNames = getSkinsinCase("Chroma 3 Case")
+FormattedListofSkinNames = formatListofSkinNames(ListofSkinNames)
+PricedSkins = postListofSkinNamestoPricingAPI(FormattedListofSkinNames)
+CaseJSONFormatted = caseDataUpdate_Formatting(PricedSkins, "Chroma 3 Case")
+caseDataUpdate_Write(CaseJSONFormatted,"Chroma 3 Case")
