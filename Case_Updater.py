@@ -7,6 +7,14 @@ import time
 #Functions Defined ---------
 
 #Error Return
+def checkCaseListfromJson():
+    existCheck = os.path.exists("%s/List of Cases.json" % cfg.jsonSource)
+    if existCheck != True:
+        print "\"List of Cases\" could not be found in the \"%s\" folder of your directory. Please check your config file." % cfg.jsonSource
+        return False
+
+checkCaseListfromJson()
+
 
 #Main Functions
 def getCaseListfromJson():
@@ -79,7 +87,7 @@ def CaseUpdateAll(caseNameList):
         caseDataUpdate_Write(CaseJSONFormatted,CaseName)
         print "%s updated \n" % CaseName
 
-
+#Main Functions Called
 caseData = getCaseListfromJson()
 caseNameList = putCaseNameinList()
 CaseUpdateAll(caseNameList)
