@@ -4,6 +4,9 @@ import json
 import config as cfg
 import time
 import os.path
+import sys
+import pprint
+pp = pprint.PrettyPrinter(indent=4)
 
 
 #Functions Defined ---------
@@ -13,9 +16,18 @@ def checkCaseListfromJson():
     existCheck = os.path.exists("%s/List of Cases.json" % cfg.jsonSource)
     if existCheck != True:
         print "\"List of Cases\" could not be found in the \"%s\" folder of your directory. Please check your config file." % cfg.jsonSource
-        return False
+        sys.exit()
 
-checkCaseListfromJson()
+def checkIndividualCaseJsonExist(caseNameList):
+    caseNameListflexible = caseNameList
+    for caseName in caseNameListflexible:
+        existCheck = os.path.exists("%s/%s.json" % (cfg.jsonSource, caseName))
+        if existCheck != True:
+            caseNameListflexible.remove(caseName)
+            print "Could not find a json file for %s in %s" % (caseName, cfg.jsonSource)
+    return caseNameListflexible
+
+
 
 #Main Functions
 def getCaseListfromJson():
@@ -88,7 +100,9 @@ def CaseUpdateAll(caseNameList):
         caseDataUpdate_Write(CaseJSONFormatted,CaseName)
         print "%s updated \n" % CaseName
 
-#Main Functions Called
+#Functions Called
+checkCaseListfromJson()
 caseData = getCaseListfromJson()
 caseNameList = putCaseNameinList()
-CaseUpdateAll(caseNameList)
+caseNameListchecked = checkIndividualCaseJsonExist(caseNameList)
+CaseUpdateAll(caseNameListchecked)
