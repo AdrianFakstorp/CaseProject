@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {u'1': {u'StatTrak\u2122 MAC-10 | Neon Rider (Factory New)': 18.72}} + 
 {u'2': {u'StatTrak\u2122 AK-47 | Elite Build (Factory New)': 10.57}} + 
 {u'3': {u'StatTrak\u2122 Five-SeveN | Monkey Business (Field-Tested)': 4.71}} + 
@@ -25,3 +26,32 @@ https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7
 https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Heat%20(Minimal%20Wear)
 https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Grand%20Prix%20(Field-Tested)
 https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Armor%20Core%20(Well-Worn)
+=======
+{u'1': {u'StatTrak\u2122 MP7 | Nemesis (Factory New)': 19.09}} + 
+{u'2': {u'StatTrak\u2122 CZ75-Auto | Yellow Jacket (Minimal Wear)': 9.41}} + 
+{u'3': {u'StatTrak\u2122 P90 | Elite Build (Factory New)': 4.68}} + 
+{u'4': {u'StatTrak\u2122 Galil AR | Rocket Pop (Factory New)': 3.99}} + 
+{u'5': {u'StatTrak\u2122 USP-S | Torque (Factory New)': 3.49}} + 
+{u'6': {u'SG 553 | Cyrex (Minimal Wear)': 3.22}} + 
+{u'7': {u'M4A4 | Evil Daimyo (Factory New)': 3.09}} + 
+{u'8': {u'StatTrak\u2122 MP9 | Ruby Poison Dart (Factory New)': 2.59}} + 
+{u'9': {u'StatTrak\u2122 UMP-45 | Riot (Factory New)': 2.44}} + 
+{u'10': {u'StatTrak\u2122 P2000 | Handgun (Minimal Wear)': 1.97}} + 
+{u'11': {u'Negev | Loudmouth (Minimal Wear)': 1.4}} + 
+{u'12': {u'StatTrak\u2122 FAMAS | Neural Net (Well-Worn)': 1.08}} + 
+Total Value: 56.45
+
+---------------------------------
+https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Nemesis%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20CZ75-Auto%20%7C%20Yellow%20Jacket%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P90%20%7C%20Elite%20Build%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Galil%20AR%20%7C%20Rocket%20Pop%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20USP-S%20%7C%20Torque%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/SG%20553%20%7C%20Cyrex%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/M4A4%20%7C%20Evil%20Daimyo%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MP9%20%7C%20Ruby%20Poison%20Dart%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Riot%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P2000%20%7C%20Handgun%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/Negev%20%7C%20Loudmouth%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Neural%20Net%20(Well-Worn)
+>>>>>>> 8a228af18e82bc6e40bb3b41d4c2a7ecb338ff2b
