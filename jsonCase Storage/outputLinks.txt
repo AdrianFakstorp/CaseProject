@@ -1,27 +1,27 @@
-{u'1': {u'StatTrak\u2122 Nova | Hyper Beast (Well-Worn)': 6.57}} + 
-{u'2': {u'M4A4 | The Battlestar (Field-Tested)': 4.3}} + 
-{u'3': {u'StatTrak\u2122 MP7 | Impire (Factory New)': 4.01}} + 
-{u'4': {u'StatTrak\u2122 FAMAS | Valence (Minimal Wear)': 3.62}} + 
-{u'5': {u'StatTrak\u2122 Five-SeveN | Triumvirate (Minimal Wear)': 2.79}} + 
-{u'6': {u'StatTrak\u2122 PP-Bizon | Photic Zone (Factory New)': 2.16}} + 
-{u'7': {u'StatTrak\u2122 SSG 08 | Necropos (Minimal Wear)': 1.19}} + 
-{u'8': {u'StatTrak\u2122 Tec-9 | Jambiya (Minimal Wear)': 0.9}} + 
-{u'9': {u'StatTrak\u2122 MAC-10 | Lapis Gator (Factory New)': 0.9}} + 
-{u'10': {u'Glock-18 | Royal Legion (Minimal Wear)': 0.84}} + 
-{u'11': {u'MAG-7 | Praetorian (Minimal Wear)': 0.53}} + 
-{u'12': {u'USP-S | Lead Conduit (Minimal Wear)': 0.43}} + 
-Total Value: 28.24
+{u'1': {u'StatTrak\u2122 MAC-10 | Neon Rider (Factory New)': 18.72}} + 
+{u'2': {u'StatTrak\u2122 AK-47 | Elite Build (Factory New)': 10.57}} + 
+{u'3': {u'StatTrak\u2122 Five-SeveN | Monkey Business (Field-Tested)': 4.71}} + 
+{u'4': {u'StatTrak\u2122 AWP | Worm God (Minimal Wear)': 4.17}} + 
+{u'5': {u'FAMAS | Djinn (Factory New)': 3.73}} + 
+{u'6': {u'Galil AR | Eco (Minimal Wear)': 3.47}} + 
+{u'7': {u'StatTrak\u2122 CZ75-Auto | Pole Position (Factory New)': 2.08}} + 
+{u'8': {u'StatTrak\u2122 P250 | Valence (Factory New)': 1.92}} + 
+{u'9': {u'StatTrak\u2122 Desert Eagle | Bronze Deco (Factory New)': 1.24}} + 
+{u'10': {u'StatTrak\u2122 MAG-7 | Heat (Minimal Wear)': 1.22}} + 
+{u'11': {u'StatTrak\u2122 UMP-45 | Grand Prix (Field-Tested)': 0.65}} + 
+{u'12': {u'StatTrak\u2122 MP7 | Armor Core (Well-Worn)': 0.33}} + 
+Total Value: 52.81
 
 ---------------------------------
-https://steamcommunity.com/market/listings/730/StatTrak™%20Nova%20%7C%20Hyper%20Beast%20(Well-Worn)
-https://steamcommunity.com/market/listings/730/M4A4%20%7C%20The%20Battlestar%20(Field-Tested)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Impire%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20FAMAS%20%7C%20Valence%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Triumvirate%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20PP-Bizon%20%7C%20Photic%20Zone%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/StatTrak™%20SSG%2008%20%7C%20Necropos%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20Tec-9%20%7C%20Jambiya%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/StatTrak™%20MAC-10%20%7C%20Lapis%20Gator%20(Factory%20New)
-https://steamcommunity.com/market/listings/730/Glock-18%20%7C%20Royal%20Legion%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/MAG-7%20%7C%20Praetorian%20(Minimal%20Wear)
-https://steamcommunity.com/market/listings/730/USP-S%20%7C%20Lead%20Conduit%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MAC-10%20%7C%20Neon%20Rider%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20AK-47%20%7C%20Elite%20Build%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Five-SeveN%20%7C%20Monkey%20Business%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20AWP%20%7C%20Worm%20God%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/FAMAS%20%7C%20Djinn%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/Galil%20AR%20%7C%20Eco%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20CZ75-Auto%20%7C%20Pole%20Position%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20P250%20%7C%20Valence%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20Desert%20Eagle%20%7C%20Bronze%20Deco%20(Factory%20New)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MAG-7%20%7C%20Heat%20(Minimal%20Wear)
+https://steamcommunity.com/market/listings/730/StatTrak™%20UMP-45%20%7C%20Grand%20Prix%20(Field-Tested)
+https://steamcommunity.com/market/listings/730/StatTrak™%20MP7%20%7C%20Armor%20Core%20(Well-Worn)
